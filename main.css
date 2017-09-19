@@ -1,0 +1,55 @@
+.parallax-container {
+  height: 100vh;
+}
+
+.center-profile {
+	text-align: center;
+	padding: 30px;
+}
+
+.div-padding {
+	padding: 50px;
+}
+
+.abilities {
+	height: 350px;
+}
+
+.skill-logos {
+	text-align: center;
+}
+
+.skills {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.skill-images {
+	margin: 10px;
+}
+
+.div-margin {
+	margin: 50px;
+}
+
+h4 {
+	font-weight: bold;
+	color: #e65100;
+	text-transform: uppercase;
+}
+
+h5 {
+	color:#1a237e;
+}
+
+a:hover {
+	color: grey;
+}
+
+a {
+	color: white;
+}
+
+.red {
+	border: 1px solid red;
+}
