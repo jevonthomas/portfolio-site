@@ -53,3 +53,29 @@ a {
 .red {
 	border: 1px solid red;
 }
+
+ul .footer-nav li{
+	display: inline-block;
+}
+
+.social {
+	margin-bottom: 1em;
+}
+
+/* Style all font awesome icons */
+.fa {
+	padding: 15px;
+	font-size: 20px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+}
+
+.fa-twitter, .fa-google, .fa-linkedin, .fa-github{
+	background: #1a237e;
+}
+
+.fa:hover {
+	color: #ffab00;
+}
